@@ -1,4 +1,4 @@
 # Merry-Christmas
-Just another repo
+Just another repo!
 
-Author - Keshav Arya.
+Author - Keshav Arya
